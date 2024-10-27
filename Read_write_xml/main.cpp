@@ -90,7 +90,7 @@
 
 
 
-
+/**************** this code fore read and write xml file**********************/
 
 
 
@@ -342,7 +342,7 @@
 
 //     return a.exec();
 // }
-
+/**************** this code fore read and write xml file**********************/
 
 #include <QCoreApplication>
 #include <QXmlStreamReader>
