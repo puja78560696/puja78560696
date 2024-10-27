@@ -1,0 +1,6 @@
+<root>
+  <child1 id="node1">
+      <name>hello</name>
+    </child1>
+  <child2 link="node1">
+    </child2></root>

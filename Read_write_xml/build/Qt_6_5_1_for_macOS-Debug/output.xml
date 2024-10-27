@@ -1,0 +1,4 @@
+<Root>
+ <Child attribute="value">This is a child element.</Child>
+ <AnotherChild>Another child element text.</AnotherChild>
+</Root>
