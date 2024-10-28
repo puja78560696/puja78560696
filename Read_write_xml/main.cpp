@@ -1,5 +1,6 @@
 
-/**************** this code fore read and write xml file**********************/
+/**************** this code fore read and write xml file  **********************/
+/**************** this push from qtcreator  **********************/
 
 #include <QCoreApplication>
 #include <QXmlStreamReader>
